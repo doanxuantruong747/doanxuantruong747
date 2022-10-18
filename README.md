@@ -5,7 +5,7 @@
 ## ⚡️Some fast information
 - 🔭I am currently freelancing. 
 - 👨‍💻Most of my projects are on <a href=https://github.com/doanxuantruong747>Github</a>   .
-📙 Check out my  <a href=https://docs.google.com/document/d/1UTjjGtFncxQT8IisopwhFCKXrLiLzlKwVsBz9q0CTMU/edit?usp>resume -></a> .
+- 📙 Check out my  <a href=https://docs.google.com/document/d/1UTjjGtFncxQT8IisopwhFCKXrLiLzlKwVsBz9q0CTMU/edit?usp>resume -></a> .
 - 🎉Interesting truth : I started working as an advertising designer, then moved on to work as a dispatcher for a transportation company and eventually moved into web development by taking a 6-month intensive web development training course at Coderschool. Now I have skills in HTML, CSS and JavaScript. I chose to switch careers for web development because I love finding innovative technology solutions to complex social problems, and that's why I jumped at the chance
 
 ## ✒️ Recent Posts
