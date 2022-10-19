@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Truong 
 
 ### I have been developing websites for a year.  I am a dynamic learner, ready to learn beyond the topic and meet beyond the requirements. 
-Hope to be a part of your team!
+### Hope to be a part of your team!
 
 
 ## ⚡️Some fast information
